@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "924032639569",
+    "firebase_url": "https://nasys-6609-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "nasys-6609",
+    "storage_bucket": "nasys-6609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924032639569:android:2320770a677a762cd6ce70",
+        "android_client_info": {
+          "package_name": "digital.minh.nasys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924032639569-n9i2pog95dk5r4fcro9kmecbtsskrsb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDObylKkNrfWKle90UggloJTfQ6SffAV20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924032639569-n9i2pog95dk5r4fcro9kmecbtsskrsb6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "924032639569-mbust3j969usrtvv918enc6t3vf1cmbs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "digital.minh.nasys"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
